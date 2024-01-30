@@ -20,24 +20,31 @@
 4.**Mulai Proyek:**
     
     Setelah menginstal Express.js, Anda dapat mulai membuat proyek Anda. Buat file JavaScript baru (misalnya, app.js) dan mulai menulis kode Anda.
+        
 5. **Struktur Proyek:**
 
    Anda dapat menentukan struktur proyek Anda sesuai kebutuhan. Biasanya, file utama proyek adalah app.js atau server.js.
 
    Anda dapat membuat folder untuk tampilan (views), rute (routes), model (models), dan file statis (static files) seperti gambar, stylesheet, dan skrip JavaScript.
+
 6.**Pembuatan Rute:**
 
    Tentukan rute (routes) yang akan ditangani oleh server Anda. Express.js memudahkan untuk menentukan rute dan mengelola permintaan HTTP.
+        
 7. **Menggunakan Templat Mesin (Template Engine):**
+
    Anda bisa memilih templat mesin seperti EJS, Pug (dulu dikenal sebagai Jade), Handlebars, dll., untuk membuat tampilan yang dinamis.
+
 8.**Menggunakan Database:**
 
    Untuk menyimpan dan mengelola data, Anda dapat menggunakan database seperti MongoDB, MySQL, PostgreSQL, atau yang lainnya.
 
    Anda dapat menggunakan ORM (Object-Relational Mapping) seperti Mongoose (untuk MongoDB) atau Sequelize (untuk SQL databases) untuk memudahkan interaksi dengan database.
+        
 9. **Middleware:**
 
    Express.js memungkinkan penggunaan middleware untuk menangani berbagai fungsi seperti parsing data, otentikasi, dan penanganan kesalahan.
+
 11. **Peluncuran Aplikasi:**
 
     Terakhir, Anda perlu meluncurkan aplikasi Anda. Anda bisa menggunakan Node.js untuk menjalankan server Anda.
