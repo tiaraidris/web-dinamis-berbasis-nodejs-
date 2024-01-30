@@ -16,6 +16,7 @@
    Copy code
 
    npm install express --save
+
 4.**Mulai Proyek:**
     
     Setelah menginstal Express.js, Anda dapat mulai membuat proyek Anda. Buat file JavaScript baru (misalnya, app.js) dan mulai menulis kode Anda.
@@ -27,8 +28,7 @@
 6.**Pembuatan Rute:**
 
    Tentukan rute (routes) yang akan ditangani oleh server Anda. Express.js memudahkan untuk menentukan rute dan mengelola permintaan HTTP.
-7. Menggunakan Templat Mesin (Template Engine):
-
+7. **Menggunakan Templat Mesin (Template Engine):**
    Anda bisa memilih templat mesin seperti EJS, Pug (dulu dikenal sebagai Jade), Handlebars, dll., untuk membuat tampilan yang dinamis.
 8.**Menggunakan Database:**
 
